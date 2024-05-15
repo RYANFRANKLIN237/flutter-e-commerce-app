@@ -19,7 +19,7 @@ Welcome to our Flutter E-Commerce App repository! This project is an e-commerce 
 1. Clone the repository:
    ```bash
    git clone
-   https://github.com/RYANFRANKLIN 237/flutter-e-commerce-app.git
+   https://github.com/RYANFRANKLIN237/flutter-e-commerce-app.git
 
 
 2. Navigate to the repository:

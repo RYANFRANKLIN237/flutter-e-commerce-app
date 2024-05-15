@@ -14,6 +14,28 @@ Welcome to our Flutter E-Commerce App repository! This project is an e-commerce 
 - **Firebase Firestore:** Store and sync app data in real-time using a flexible, scalable NoSQL database.
 - **Firebase Storage:** Store and serve user-generated content such as images and videos.
 - **Flutter Packages:** Utilize various Flutter packages for functionalities such as getx state management, HTTP requests, and UI components.
+## Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone
+   https://github.com/RYANFRANKLIN 237/flutter-e-commerce-app.git
+
+
+2. Navigate to the repository:
+   ```bash
+   cd flutter-e-commerce-app
+
+
+3. Install dependencies:
+   ```bash
+   flutter pub get
+
+
+4. Run the app:
+   ```bash
+   flutter run 
+
 
 # Screenshoots
 ![Screenshot_2024-05-09-11-58-47-544_com example t_store](https://github.com/RYANFRANKLIN237/flutter-e-commerce-app/assets/95378076/e44633d8-52b3-48bf-8425-bc637c7e4abb)

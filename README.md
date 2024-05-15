@@ -37,18 +37,9 @@ Welcome to our Flutter E-Commerce App repository! This project is an e-commerce 
    flutter run 
 
 
-# Screenshoots
-![Screenshot_2024-05-09-11-58-47-544_com example t_store](https://github.com/RYANFRANKLIN237/flutter-e-commerce-app/assets/95378076/e44633d8-52b3-48bf-8425-bc637c7e4abb)
-![Screenshot_2024-05-09-11-58-18-501_com example t_store](https://github.com/RYANFRANKLIN237/flutter-e-commerce-app/assets/95378076/4f957e5c-432a-406e-a014-739c5487544e)
-![Screenshot_2024-05-14-09-30-35-102_com example t_store](https://github.com/RYANFRANKLIN237/flutter-e-commerce-app/assets/95378076/5ac81822-421d-4dab-8130-2d927d337d5e)
-![Screenshot_2024-05-14-09-30-50-200_com google android gms](https://github.com/RYANFRANKLIN237/flutter-e-commerce-app/assets/95378076/fcd91905-ba7d-4267-819a-9644d37d54ee)
-![Screenshot_2024-05-09-11-54-28-522_com example t_store](https://github.com/RYANFRANKLIN237/flutter-e-commerce-app/assets/95378076/552243c9-de2f-4c84-994d-904eb581140d)
-![Screenshot_2024-05-09-11-55-30-414_com example t_store](https://github.com/RYANFRANKLIN237/flutter-e-commerce-app/assets/95378076/77aa8fa7-44ad-4661-92d3-0ef512413e19)
-![Screenshot_2024-05-14-09-32-33-148_com example t_store](https://github.com/RYANFRANKLIN237/flutter-e-commerce-app/assets/95378076/ee17b0ff-6670-4a17-bde4-3eb261a617b2)
-![Screenshot_2024-05-09-11-54-14-054_com example t_store](https://github.com/RYANFRANKLIN237/flutter-e-commerce-app/assets/95378076/40392248-740b-41aa-b4c6-0919f1045d0d)
-![Screenshot_2024-05-14-09-32-44-076_com example t_store](https://github.com/RYANFRANKLIN237/flutter-e-commerce-app/assets/95378076/942839d4-3919-4fe1-bd9d-b867262f449c)
-![Screenshot_2024-05-09-11-53-46-062_com example t_store](https://github.com/RYANFRANKLIN237/flutter-e-commerce-app/assets/95378076/3b315348-869f-46b8-8ac5-a88638bef362)
-![Screenshot_2024-05-09-11-53-57-980_com example t_store](https://github.com/RYANFRANKLIN237/flutter-e-commerce-app/assets/95378076/4aa8781a-b254-4bee-8a43-a87926d5df70)
+# Screenshots
+<img src="![signup](https://github.com/RYANFRANKLIN237/flutter-e-commerce-app/assets/95378076/483bf7f8-44a8-43be-aa8f-6d22bda64235)
+" alt="Screenshot" width="50%" length="50%">
 
 
 

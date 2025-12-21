@@ -62,6 +62,7 @@ Welcome to our Flutter E-Commerce App repository! This project is an e-commerce 
 ![editprofile](https://github.com/RYANFRANKLIN237/flutter-e-commerce-app/assets/95378076/b8750c2d-7801-4888-b7cf-654b687520df)
 
 - many other funtionalities includeed , could not have screen shot everything possible
+-  👯 See also : My App on Playstore, Explore: [InstaKnow](https://play.google.com/store/apps/details?id=com.savanna.instaknow)
 
 
 
